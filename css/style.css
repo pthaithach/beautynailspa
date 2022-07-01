@@ -239,6 +239,7 @@ h6.caption {
     font-size: 50px;
     text-transform: uppercase;
     letter-spacing: 0px;
+    font-family: 'Lobster', cursive;
 }
 .banner-text {
     text-align: center;
@@ -253,9 +254,9 @@ h6.caption {
 }
 .banner-text span {
     display: block;
-    line-height: 1.8em;
+    line-height: 1.3em;
     font-style: italic;
-    font-weight: 400;
+    font-weight: 700;
 }
 .baner-info{
    position: absolute;
@@ -2741,7 +2742,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
 		width: 75%;
 	}
 	.banner-text h2 {
-		font-size: 24px;
+		font-size: 33px;
 		letter-spacing: 1px;
 		line-height: 30px;
 	}
@@ -3002,7 +3003,7 @@ ul.nav.navbar-nav li a {
 		font-size: 17px;
 	}
 	.banner-text h2 {
-    font-size: 21px;
+    font-size: 32px;
 }
 .heading-agileinfo span {
     font-size: 15px!important;
